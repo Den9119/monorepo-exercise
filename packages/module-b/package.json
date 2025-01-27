@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-beginners/module-b",
+  "name": "@aiden-ng/module-b",
   "version": "1.0.0-alpha.0",
   "main": "index.js",
   "license": "MIT",
@@ -14,5 +14,6 @@
   },
   "scripts": {
     "build": "./index.js"
-  }
+  },
+  "gitHead": "7adfdbbd5e71a76c1b66c166bddb7b242381c79a"
 }

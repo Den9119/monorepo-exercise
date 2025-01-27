@@ -1,10 +1,10 @@
 {
-  "name": "@monorepo-beginners/module-a",
+  "name": "@aiden-ng/module-a",
   "version": "1.0.0-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@monorepo-beginners/module-b": "^1.0.0-alpha.0",
+    "@aiden-ng/module-b": "^1.0.0-alpha.0",
     "lodash": "^4.17.20",
     "react": "^17.0.1"
   },
@@ -14,5 +14,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "7adfdbbd5e71a76c1b66c166bddb7b242381c79a"
 }
