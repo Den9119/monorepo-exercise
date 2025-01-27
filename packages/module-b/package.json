@@ -1,0 +1,19 @@
+{
+  "name": "@aiden-ng/module-b",
+  "version": "3.0.0-alpha.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "bin": {
+    "mdb": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "./index.js"
+  },
+  "gitHead": "b922f480c67d007d1ac1d80a67c9aebb3776e2eb"
+}
